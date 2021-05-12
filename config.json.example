@@ -1,0 +1,20 @@
+{
+  "discord": "<Discord Bot Token>",
+  "aws":{
+    "key": "<AWS CLI Key>",
+    "secret" : "<AWS Secret>",
+    "bucket" : "<AWS Bucket Name>",
+    "region" : "us-east-1"
+  },
+  "color" : {
+    "Male" : 3426654,
+    "Female" : 16580705
+  },
+  "http" : {
+    "port" : "1984"
+  },
+  "logging":{
+    "filename": "logs/software.log",
+    "enabled": true
+  }
+}

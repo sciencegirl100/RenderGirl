@@ -1,0 +1,9 @@
+{
+  "list": [
+    {
+      "name" : "faceai",
+      "path" : "face.png"
+    }
+  ],
+  "cdn" : "./emojis/"
+}

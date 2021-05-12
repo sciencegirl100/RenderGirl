@@ -1,0 +1,7 @@
+node_modules/
+config.json
+logs/
+*.jpg
+*.jpg.json
+aws.json
+package-lock.json
